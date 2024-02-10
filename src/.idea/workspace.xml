@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d26ee34-cc54-4b47-980d-2c5f9d536384" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/UniqueJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysCompareMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysFillMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysMisMatchMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/ArraysSortMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ArrayOutOfBoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionInputTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionTask/ExceptionMnnpTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionTask/MailOfException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionTask/PassWordOfException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionTask/PhoneNumberOfException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ExceptionTaskSiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ThrowExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/ThrowsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exception/throwsExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/FourthMaximumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/InterviewQuestion/MeterKiloMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/InterviewQuestion/interviewQuestionString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/AbbrevationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/AsciiValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/MustakTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/PalindromeConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringNullPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/StringMethods/StringReverseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/javaFormateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniqueJava.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2c9fiZz8ak5nCN5W7696btFzBzR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/harimani/IdeaProjects/UniqueJava/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d26ee34-cc54-4b47-980d-2c5f9d536384" name="Changes" comment="" />
+      <created>1707528843750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707528843750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

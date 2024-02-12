@@ -1,11 +1,13 @@
 package HackerRankProblem;
 
+import javax.sound.sampled.FloatControl;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.text.NumberFormat;
 import java.util.Locale;
 
 public class CurrencyFormate {
+
     public static void main(String[] args) {
         double num = 12345.67d;
 
@@ -13,12 +15,10 @@ public class CurrencyFormate {
         Locale indiaLocale = new Locale("en", "IN");
 
         // Create a custom currency format for India
-        DecimalFormatSymbols symbols = new DecimalFormatSymbols(indiaLocale);
-        symbols.setCurrencySymbol("Rs.");
-        String pattern = "##,##,##0.00";
-        DecimalFormat indiaCurrencyFormat = new DecimalFormat(pattern,symbols );
-        String indiaFormatted = indiaCurrencyFormat.format(num);
-        System.out.println("India format: " + indiaFormatted);
+        Locale india = new Locale("en", "IN");
+        NumberFormat n = NumberFormat.getCurrencyInstance(india);
+        String indiaCurrency= n.format(n);
+        System.out.println("India format: " + indiaCurrency);
 
         Locale locales = Locale.US;
         NumberFormat us = NumberFormat.getCurrencyInstance(locales);

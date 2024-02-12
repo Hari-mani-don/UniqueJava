@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d26ee34-cc54-4b47-980d-2c5f9d536384" name="Changes" comment="Add intern file">
-      <change afterPath="$PROJECT_DIR$/HackerRankProblem/CurrencyFormate.java" afterDir="false" />
+    <list default="true" id="0d26ee34-cc54-4b47-980d-2c5f9d536384" name="Changes" comment="Add currency file">
+      <change afterPath="$PROJECT_DIR$/HackerRankProblem/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankProblem/StringIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankProblem/SubStringcomparisons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankProblem/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRankProblem/CurrencyFormate.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankProblem/CurrencyFormate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRankProblem/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankProblem/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UniqueJava/HackerRankProblem/CurrencyFormate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UniqueJava/HackerRankProblem/CurrencyFormate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UniqueJava/HackerRankProblem/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UniqueJava/HackerRankProblem/DataTypes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +23,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hari-mani-don&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6982dd36-eee1-47b9-a258-5b377eee2e71" />
+        <option name="url" value="https://github.com/Hari-mani-don/UniqueJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar:///usr/lib/jvm/jdk-17-oracle-x64/lib/src.zip!/java.base/java/text/Format.java" root0="SKIP_INSPECTION" />
@@ -38,20 +60,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.CurrencyFormate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MailOfException.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/harimani/IdeaProjects/UniqueJava/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Anagram.executor": "Run",
+    "Application.CurrencyFormate.executor": "Run",
+    "Application.MailOfException.executor": "Run",
+    "Application.StringIntroduction.executor": "Run",
+    "Application.SubStringcomparisons.executor": "Run",
+    "Application.palindrome.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/harimani/IdeaProjects/UniqueJava/src"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707591997965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add currency file">
+      <option name="closed" value="true" />
+      <created>1707592201668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707592201668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +129,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add more file" />
     <MESSAGE value="Add intern file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add intern file" />
+    <MESSAGE value="Add currency file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add currency file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HackerRankProblem/palindrome.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
